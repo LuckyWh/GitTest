@@ -9,3 +9,5 @@
 	    android:layout_height="wrap_content"
 	    android:text="hello"/>
 </LinearLayout>
+
+The container 'Android Dependencies' references non existing library 'E:\GitWorkspace\GitTest\appcompat_v7\bin\android-support-v7-appcompat.jar'	GitTestOne		Build path	Build Path Problem
